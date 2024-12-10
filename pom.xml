@@ -11,6 +11,7 @@
     <modules>
         <module>summation</module>
         <module>string-ends-with</module>
+        <module>manhattan-distance</module>
     </modules>
 
     <properties>
